@@ -1,13 +1,9 @@
-- National Scholarship of Graduate Student, 2024.
+- Second Prize in the 3rd Trusted Blockchain Security Competition, China, 2023.
 
-- First-prize Scholarship of CUMT, 2024.
+- Silver Award of the 10th China International College Students' Innovation and Entrepreneurship Competition, Guangdong Province, 2024.
 
-- First-prize Scholarship of CUMT, 2023.
+- Scholarship of Research Excellence, Guangzhou University, 2024.
 
-- Freshman Scholarship of CUMT, 2022.
+- First-class M.S. Scholarship, Guangzhou University, 2022.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Third-class M.S. Scholarship, Guangzhou University, 2022/2024.
