@@ -4,7 +4,7 @@
 
 - Yuting Xu, <strong>Lin Chen</strong>, Xiang Yu and Kui Liu* (2024). Oracles-based Framework for Introducing Governance Entitlements across DAOs. <strong>The 30th International Conference on Computational & Experimental Engineering and Sciences</strong>. [[Paper]](https://doi.org/10.1007/978-3-031-82907-9_22)
 
-- Shen Su, <strong>Lin Chen</strong>, Zhihong Tian, Hui Lu, Yanbin Sun, Chenglin Zhang (2023). A method and system for automatically generating domain name resolution business scenarios</strong>. [[Patent]]
+- Shen Su, <strong>Lin Chen</strong>, Zhihong Tian, Hui Lu, Yanbin Sun, Chenglin Zhang (2023). A method and system for automatically generating domain name resolution business scenarios</strong>. [Patent]
 
 - Shen Su, Jiaming Zhu, <strong>Lin Chen</strong>, Zhihong Tian, Hui Lu (2023). A blockchain-oriented test scenario automated
-construction method and system</strong>. [[Patent]]
+construction method and system</strong>. [Patent]

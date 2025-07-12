@@ -8,7 +8,7 @@ Lin Chen received the B.S. degree from Anhui Polytechnic University, Wuhu, China
 charlie0614[at]e.gzhu.edu.cn
 
 #### Education
-M.S., Cyberspace Institute of Advanced Technology, Guangzhou University, 2022 - 2025 .\
+M.S., Cyberspace Institute of Advanced Technology, Guangzhou University, 2022 - 2025.\
 B.S., School of Computer and Information, Anhui Polytechnic University, 2015 - 2019.
 
 #### Research Interests
