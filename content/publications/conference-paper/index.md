@@ -17,7 +17,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023'
+date: '2023-01-01'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-08-02'
