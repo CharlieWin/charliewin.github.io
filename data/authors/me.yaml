@@ -6,7 +6,7 @@ name:
   given: Lin
   family: Chen
   alternate: '陈林'  # Example: 王伟
-  pronunciation: 'Chen Lin'  # Example: Wáng Wěi
+  # pronunciation: 'Chen Lin'  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
   - PhD

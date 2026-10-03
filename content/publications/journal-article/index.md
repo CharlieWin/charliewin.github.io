@@ -1,15 +1,18 @@
 ---
-title: "An example journal article"
+title: "A Framework Based on the DAO and NFT in Blockchain for Electronic Document Sharing"
 authors:
 - me
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Jiaming Zhu
+- Yuting Xu
+- Huanqin Zheng
+- Shen Su
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2024"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-07"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,46 +21,46 @@ publication_types: ["article-journal"]
 
 # Publication metadata — structured fields used by citation styles and BibTeX export.
 publication:
-  name: "Journal of Source Themes"
-  volume: 1
-  issue: 1
+  name: "Computer Modeling in Engineering and Sciences (CMES)"
+  volume: 140
+  issue: 3
 
 peer_reviewed: true
 open_access: true
-license: CC-BY-4.0
+# license: CC-BY-4.0
 
 # Awards, honors, and recognitions. Surfaced as badges on the page and in listings.
 # Note: a Test of Time award years after publication uses an explicit `date` that differs from the page date.
-awards:
-  - name: "Test of Time Award"
-    level: winner
-    date: "2025"
-    note: "Awarded for sustained impact 10 years after publication."
-  - name: "Editor's Choice"
-    level: featured
+# awards:
+#   - name: "Test of Time Award"
+#     level: winner
+#     date: "2025"
+#     note: "Awarded for sustained impact 10 years after publication."
+#   - name: "Editor's Choice"
+#     level: featured
 
-funding:
-  - funder: "National Science Foundation"
-    grant: "NSF-1234567"
+# funding:
+#   - funder: "National Science Foundation"
+#     grant: "NSF-1234567"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In the information age, electronic documents (e-documents) have become a popular alternative to paper documents due to their lower costs, higher dissemination rates, and ease of knowledge sharing. However, digital copyright infringements occur frequently due to the ease of copying, which not only infringes on the rights of creators but also weakens their creative enthusiasm. Therefore, it is crucial to establish an e-document sharing system that enforces copyright protection. However, the existing centralized system has outstanding vulnerabilities, and the plagiarism detection algorithm used cannot fully detect the context, semantics, style, and other factors of the text. Digital watermark technology is only used as a means of infringement tracing. This paper proposes a decentralized framework for e-document sharing based on decentralized autonomous organization (DAO) and non-fungible token (NFT) in blockchain. The use of blockchain as a distributed credit base resolves the vulnerabilities inherent in traditional centralized systems. The e-document evaluation and plagiarism detection mechanisms based on the DAO model effectively address challenges in comprehensive text information checks, thereby promoting the enhancement of e-document quality. The mechanism for protecting and circulating e-document copyrights using NFT technology ensures effective safeguarding of users' e-document copyrights and facilitates e-document sharing. Moreover, recognizing the security issues within the DAO governance mechanism, we introduce an innovative optimization solution. Through experimentation, we validate the enhanced security of the optimized governance mechanism, reducing manipulation risks by up to 51%. Additionally, by utilizing evolutionary game analysis to deduce the equilibrium strategies of the framework, we discovered that adjusting the reward and penalty parameters of the incentive mechanism motivates creators to generate superior quality and unique e-documents, while evaluators are more likely to engage in assessments.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 hugoblox:
   ids:
-    arxiv: 1512.04133v1
+    doi: 10.32604/cmes.2024.049996
 
 links:
   - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
+    url: https://www.techscience.com/CMES/v140n3/57241/pdf
   - type: code
-    url: https://github.com/HugoBlox/kit
+    url: ""
   - type: dataset
     url: ""
   - type: poster
@@ -93,10 +96,10 @@ projects: []
 slides: ""
 ---
 
-> [!NOTE]
+<!-- > [!NOTE]
 > Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 
 > [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
+> Create your slides in Markdown - click the *Slides* button to check out the example. -->
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
