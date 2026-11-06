@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- Lin Chen is currently a Ph.D. candidate under the advisement of Prof. Qiao 
+ Lin Chen is currently a PhD. candidate under the advisement of Prof. Qiao 
  at Xidian University, Xi'an, China. He received his M.S. degree from the Cyberspace Institute of Advanced Technology (方滨兴院士班),  Guangzhou University in 2025. His research primarily focuses on large language models(LLMs), graph foundation models(GFMs)，blockchain, and evolutionary games.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -29,7 +29,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication/CMES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Framework Based on the DAO and NFT in Blockchain for Electronic Document Sharing](https://doi.org/10.32604/cmes.2024.049996)
