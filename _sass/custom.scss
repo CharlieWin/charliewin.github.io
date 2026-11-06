@@ -1,0 +1,10 @@
+/* 作者侧边栏：头像与文字顶部对齐 */
+.sidebar__author {
+  align-items: flex-start !important;
+}
+.author__avatar {
+  align-self: flex-start !important;
+}
+.author__content {
+  align-self: flex-start !important;
+}

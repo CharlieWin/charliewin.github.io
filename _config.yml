@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lin Chen"
+title                    : "LinChen's Homepage"
 description              : "PhD Candidate"
 repository               : "linchen.github.io"
 # google_scholar_stats_use_cdn : # true
@@ -21,7 +21,7 @@ repository               : "linchen.github.io"
 
 # Site Author
 author:
-  name             : "LinCh (陈林)"
+  name             : "LinChen (陈林)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Xidian University"
   location         : "Xi'an, China"
